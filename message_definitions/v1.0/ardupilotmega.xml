@@ -301,6 +301,10 @@
         <param index="6">Empty</param>
         <param index="7">Empty</param>
       </entry>
+      <entry value="43004" name="MAV_CMD_ADJUST_GAIN" hasLocation="false" isDestination="false">
+        <description>Adjusts the gains of the vehicle</description>
+        <param index="1" label="Adjustment" minValue="-1" maxValue="1" increment="0.1">-1: decrease gain, 1: increase gain, 0: no change</param>
+      </entry>
     </enum>
     <enum name="SCRIPTING_CMD">
       <entry value="0" name="SCRIPTING_CMD_REPL_START">
