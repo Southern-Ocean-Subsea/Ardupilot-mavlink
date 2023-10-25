@@ -1,5 +1,5 @@
 [![Build Status](https://github.com/ArduPilot/mavlink/workflows/Test%20and%20deploy/badge.svg)](https://github.com/ArduPilot/mavlink/actions?query=branch%3Amaster)
-
+This is SOSUBS version of mavlink module forked from the ardusub stable commit reference to the mavlink lib
 ## MAVLink ##
 
 MAVLink -- Micro Air Vehicle Message Marshalling Library.
